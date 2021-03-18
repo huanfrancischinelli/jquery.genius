@@ -1,2 +1,2 @@
 # jquery.genius
-A simple "Simon" game (also kknown as Genius), made with JQuery.
+A simple "Simon" game (also known as Genius), made with JQuery.
